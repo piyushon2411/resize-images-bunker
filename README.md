@@ -41,5 +41,3 @@ python resize_images.py
 
 The script iterates through all the image files in the input folder, resizes them using the Pillow library, and saves the resized images in the new output folder. The aspect ratio of the images is maintained during resizing.
 ```
-
-Save the contents above into a file named `README.md` and include it in your project folder. This will serve as the documentation for your project.
